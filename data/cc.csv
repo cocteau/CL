@@ -1,0 +1,941 @@
+"City","State.Province.Region","Country","Observed","Added","Percentage_added"
+"Aba","Abia","Nigeria",54,43,80
+"Abakan","Khakasiya","Russia",18,8,44
+"Abidjan","Abidjan","Côte d'Ivoire",59,51,86
+"Abilene","Texas","United States",40,16,40
+"Abu Dhabi","Abu Zaby","United Arab Emirates",23,20,87
+"Abuja","Federal Capital Territory","Nigeria",23,19,83
+"Accra","Greater Accra","Ghana",41,37,90
+"Adamstown","","Pitcairn Islands",19,17,89
+"Adana","Adana","Türkiye",34,23,68
+"Addis Ababa","Adis Abeba","Ethiopia",22,20,91
+"Adelaide","South Australia","Australia",12,5,42
+"Agartala","Tripura","India",46,11,24
+"Agra","Uttar Pradesh","India",15,-3,-20
+"Ahmedabad","Gujarat","India",15,3,20
+"Ahvaz","Khuzestan","Iran",31,29,94
+"Aizawl","Mizoram","India",42,14,33
+"Al Basrah","Al Basrah","Iraq",26,25,96
+"Albany","Georgia","United States",17,10,59
+"Albany","New York","United States",26,9,35
+"Albuquerque","New Mexico","United States",34,21,62
+"Aleppo","Halab","Syria",28,20,71
+"Alexandria","Al Iskandariyah","Egypt",41,33,80
+"Alexandria","Louisiana","United States",26,12,46
+"Algiers","Alger","Algeria",37,22,59
+"Aligarh","Uttar Pradesh","India",14,-3,-21
+"Allentown","Pennsylvania","United States",21,11,52
+"Almaty","Almaty","Kazakhstan",26,13,50
+"Alofi","","Niue",23,23,100
+"Alpena","Michigan","United States",17,7,41
+"Altoona","Pennsylvania","United States",31,11,35
+"Amaravati","Andhra Pradesh","India",19,3,16
+"Amarillo","Texas","United States",33,17,52
+"Amman","Al 'Asimah","Jordan",33,24,73
+"Amritsar","Punjab","India",19,-5,-26
+"Amsterdam","Noord-Holland","Netherlands",22,9,41
+"Anadyr","Chukotskiy Avtonomnyy Okrug","Russia",34,16,47
+"Anchorage","Alaska","United States",21,11,52
+"Andorra la Vella","Andorra la Vella","Andorra",29,20,69
+"Ankara","Ankara","Türkiye",23,18,78
+"Anniston","Alabama","United States",18,10,56
+"Antananarivo","Antananarivo","Madagascar",40,31,78
+"Apia","Tuamasaga","Samoa",36,34,94
+"Aracaju","Sergipe","Brazil",43,34,79
+"Arequipa","Arequipa","Peru",41,38,93
+"Arkhangelsk","Arkhangel'skaya Oblast'","Russia",26,12,46
+"Asheville","North Carolina","United States",21,14,67
+"Ashgabat","Asgabat","Turkmenistan",26,21,81
+"Asmara","Ma'ikel","Eritrea",44,37,84
+"Astana","Nur-Sultan","Kazakhstan",25,11,44
+"Astrakhan","Astrakhanskaya Oblast'","Russia",32,20,63
+"Asuncion","Asuncion","Paraguay",42,28,67
+"Athens","Attiki","Greece",24,13,54
+"Atlanta","Georgia","United States",10,7,70
+"Atlantic City","New Jersey","United States",20,11,55
+"Auckland","Auckland","New Zealand",34,20,59
+"Augusta","Georgia","United States",20,12,60
+"Aurangabad","Maharashtra","India",15,8,53
+"Austin","Texas","United States",35,19,54
+"Avarua","","Cook Islands",27,24,89
+"Awka","Anambra","Nigeria",44,35,80
+"Bagam","Kepulauan Riau","Indonesia",47,46,98
+"Baghdad","Baghdad","Iraq",21,19,90
+"Baidoa","Bay","Somalia",20,19,95
+"Bakersfield","California","United States",49,23,47
+"Baku","Baki","Azerbaijan",22,18,82
+"Balandougou","Kayes","Mali",31,27,87
+"Balikesir","Balikesir","Türkiye",22,12,55
+"Baltimore","Maryland","United States",17,9,53
+"Bamako","Bamako","Mali",35,29,83
+"Bamenda","North-West","Cameroon",26,23,88
+"Bandar Lampung","Lampung","Indonesia",37,36,97
+"Bandar Seri Begawan","Brunei dan Muara","Brunei",24,22,92
+"Bangkok","Krung Thep Maha Nakhon","Thailand",12,11,92
+"Bangor","Maine","United States",23,13,57
+"Bangui","Bangui","Central African Republic",49,34,69
+"Banjul","Banjul","Gambia, The",44,27,61
+"Barcelona","Catalonia","Spain",41,28,68
+"Barnaul","Altayskiy Kray","Russia",21,9,43
+"Barquisimeto","Lara","Venezuela",37,32,86
+"Barranquilla","Atlantico","Colombia",57,54,95
+"Basse-Terre","","Guadeloupe",66,63,95
+"Basseterre","Saint George Basseterre","Saint Kitts and Nevis",74,71,96
+"Batam Centre","Kepulauan Riau","Indonesia",47,46,98
+"Baton Rouge","Louisiana","United States",33,13,39
+"Beaumont","Texas","United States",35,17,49
+"Beijing","Beijing","China",19,9,47
+"Beirut","Beyrouth","Lebanon",37,31,84
+"Bekasi","Jawa Barat","Indonesia",27,23,85
+"Bekasi Kota","Jawa Barat","Indonesia",27,23,85
+"Belem","Para","Brazil",42,39,93
+"Belgorod","Belgorodskaya Oblast'","Russia",28,18,64
+"Belgrade","Beograd","Serbia",28,18,64
+"Belize City","Belize","Belize",47,46,98
+"Belmopan","Cayo","Belize",34,29,85
+"Belo Horizonte","Minas Gerais","Brazil",22,16,73
+"Bend","Oregon","United States",34,17,50
+"Bengaluru","Karnataka","India",14,3,21
+"Benin City","Edo","Nigeria",54,38,70
+"Berlin","Berlin","Germany",23,14,61
+"Bern","Bern","Switzerland",29,18,62
+"Bhopal","Madhya Pradesh","India",11,6,55
+"Bhubaneswar","Odisha","India",10,-1,-10
+"Bien Hoa","Dong Nai","Vietnam",10,9,90
+"Bilaspur","Chhattisgarh","India",10,3,30
+"Billings","Montana","United States",28,16,57
+"Biloxi","Mississippi","United States",32,12,38
+"Binghamton","New York","United States",22,10,45
+"Birmingham","Alabama","United States",17,7,41
+"Birmingham","Birmingham","United Kingdom",21,8,38
+"Birobidzhan","Yevreyskaya Avtonomnaya Oblast'","Russia",24,12,50
+"Bishkek","Bishkek","Kyrgyzstan",22,13,59
+"Bismarck","North Dakota","United States",29,10,34
+"Bissau","Bissau","Guinea-Bissau",48,24,50
+"Blagoveshchensk","Amurskaya Oblast'","Russia",20,12,60
+"Blantyre","Blantyre","Malawi",29,15,52
+"Bloemfontein","Free State","South Africa",19,14,74
+"Bluefield","West Virginia","United States",28,13,46
+"Boa Vista","Roraima","Brazil",46,37,80
+"Boankra","Ashanti","Ghana",40,31,78
+"Bogor","Jawa Barat","Indonesia",25,22,88
+"Bogota","Bogota","Colombia",7,7,100
+"Boise","Idaho","United States",26,11,42
+"Boston","Massachusetts","United States",22,9,41
+"Bowling Green","Kentucky","United States",16,8,50
+"Bozeman","Montana","United States",28,14,50
+"Brades","Saint Peter","Montserrat",71,68,96
+"Brasilia","Distrito Federal","Brazil",19,15,79
+"Bratislava","Bratislava","Slovakia",27,15,56
+"Brazzaville","Brazzaville","Congo (Brazzaville)",36,31,86
+"Bridgetown","Saint Michael","Barbados",70,67,96
+"Brisbane","Queensland","Australia",18,7,39
+"Bristol","Tennessee","United States",20,12,60
+"Brussels","Brussels-Capital Region","Belgium",21,10,48
+"Bryan","Texas","United States",36,15,42
+"Bryansk","Bryanskaya Oblast'","Russia",26,15,58
+"Bucharest","Bucuresti","Romania",40,25,63
+"Budapest","Budapest","Hungary",31,17,55
+"Buenos Aires","Buenos Aires, Ciudad Autonoma de","Argentina",31,12,39
+"Buffalo","New York","United States",20,8,40
+"Bujumbura","Bujumbura Mairie","Burundi",36,33,92
+"Bukavu","Sud-Kivu","Congo (Kinshasa)",42,37,88
+"Burlington","Vermont","United States",25,7,28
+"Bursa","Bursa","Türkiye",24,17,71
+"Busan","Busan","Korea, South",24,13,54
+"Butte","Montana","United States",31,14,45
+"Cacuaco","Luanda","Angola",25,22,88
+"Cairo","Al Qahirah","Egypt",27,16,59
+"Calgary","Alberta","Canada",33,14,42
+"Cali","Valle del Cauca","Colombia",44,39,89
+"Calliaqua","Saint George","Saint Vincent and the Grenadines",72,68,94
+"Caloocan City","Caloocan","Philippines",29,17,59
+"Campinas","São Paulo","Brazil",38,31,82
+"Campo Grande","Mato Grosso do Sul","Brazil",36,26,72
+"Can Tho","Can Tho","Vietnam",17,14,82
+"Canagatan","Cagayan","Philippines",30,8,27
+"Canberra","Australian Capital Territory","Australia",10,6,60
+"Canton","Ohio","United States",19,11,58
+"Cape Town","Western Cape","South Africa",15,7,47
+"Capitol Hill","","Northern Mariana Islands",51,51,100
+"Caracas","Distrito Capital","Venezuela",36,32,89
+"Casablanca","Casablanca-Settat","Morocco",20,8,40
+"Casper","Wyoming","United States",26,16,62
+"Castries","Castries","Saint Lucia",43,40,93
+"Cayenne","","French Guiana",49,47,96
+"Cazenga","Luanda","Angola",25,22,88
+"Cedar Rapids","Iowa","United States",28,10,36
+"Chaguanas","Chaguanas","Trinidad and Tobago",35,34,97
+"Champaign","Illinois","United States",19,10,53
+"Chandigarh","Chandigarh","India",16,0,0
+"Changchun","Jilin","China",20,14,70
+"Changsha","Hunan","China",32,7,22
+"Changwon","Gyeongnam","Korea, South",24,12,50
+"Charleston","West Virginia","United States",22,11,50
+"Charleston","South Carolina","United States",12,8,67
+"Charlotte","North Carolina","United States",13,11,85
+"Charlotte Amalie","Virgin Islands","U.S. Virgin Islands",73,69,95
+"Charlottesville","Virginia","United States",27,12,44
+"Charlottetown","Prince Edward Island","Canada",28,17,61
+"Chattanooga","Tennessee","United States",19,9,47
+"Chattogram","Chattogram","Bangladesh",49,30,61
+"Cheboksary","Chuvashiya","Russia",25,12,48
+"Chelyabinsk","Chelyabinskaya Oblast'","Russia",32,13,41
+"Chengdu","Sichuan","China",34,16,47
+"Chennai","Tamil Nadu","India",10,3,30
+"Cherkessk","Karachayevo-Cherkesiya","Russia",43,28,65
+"Cheyenne","Wyoming","United States",31,17,55
+"Chiang Mai","Chiang Mai","Thailand",19,13,68
+"Chicago","Illinois","United States",21,8,38
+"Chico","California","United States",32,13,41
+"Chisinau","Chisinau","Moldova",31,21,68
+"Chita","Zabaykal'skiy Kray","Russia",18,8,44
+"Chongqing","Chongqing","China",30,10,33
+"Cilacap","Jawa Tengah","Indonesia",31,29,94
+"Cincinnati","Ohio","United States",17,9,53
+"Ciudad Nezahualcoyotl","Mexico","Mexico",32,26,81
+"Clarksburg","West Virginia","United States",24,11,46
+"Cleveland","Ohio","United States",14,5,36
+"Cologne","North Rhine-Westphalia","Germany",21,10,48
+"Colombo","Western","Sri Lanka",40,31,78
+"Colorado Springs","Colorado","United States",34,20,59
+"Columbia","South Carolina","United States",12,9,75
+"Columbia","Missouri","United States",18,4,22
+"Columbus","Georgia","United States",21,15,71
+"Columbus","Ohio","United States",16,8,50
+"Comayaguela","Francisco Morazan","Honduras",31,22,71
+"Conakry","Conakry","Guinea",64,61,95
+"Concord","New Hampshire","United States",25,11,44
+"Copenhagen","Hovedstaden","Denmark",19,8,42
+"Cordoba","Cordoba","Argentina",30,13,43
+"Corpus Christi","Texas","United States",25,16,64
+"Cotonou","Littoral","Benin",56,47,84
+"Cuiaba","Mato Grosso","Brazil",48,22,46
+"Curitiba","Parana","Brazil",21,15,71
+"Daegu","Daegu","Korea, South",23,12,52
+"Daejeon","Daejeon","Korea, South",28,8,29
+"Dakar","Dakar","Senegal",36,30,83
+"Dallas","Texas","United States",28,8,29
+"Daman","Dadra and Nagar Haveli and Daman and Diu","India",33,20,61
+"Damascus","Dimashq","Syria",40,28,70
+"Dar es Salaam","Dar es Salaam","Tanzania",28,26,93
+"Darwin","Northern Territory","Australia",19,17,89
+"Davao","Davao","Philippines",22,21,95
+"Davy Hill","Saint Peter","Montserrat",71,68,96
+"Dayton","Ohio","United States",17,8,47
+"Dehradun","Uttarakhand","India",14,0,0
+"Delhi","Delhi","India",17,-2,-12
+"Denizli","Denizli","Türkiye",46,35,76
+"Denver","Colorado","United States",36,20,56
+"Depok","Jawa Barat","Indonesia",25,22,88
+"Des Moines","Iowa","United States",27,7,26
+"Detroit","Michigan","United States",18,7,39
+"Dhaka","Dhaka","Bangladesh",37,3,8
+"Dhanbad","Jharkhand","India",19,-5,-26
+"Dili","Dili","Timor-Leste",52,35,67
+"Dispur","Assam","India",49,21,43
+"Diyarbakir","Diyarbakir","Türkiye",31,27,87
+"Djibouti","Djibouti","Djibouti",27,22,81
+"Dodoma","Dodoma","Tanzania",16,12,75
+"Doha","Ad Dawhah","Qatar",26,21,81
+"Dothan","Alabama","United States",16,9,56
+"Douala","Littoral","Cameroon",58,52,90
+"Douglas","","Isle of Man",33,26,79
+"Dubai","Dubayy","United Arab Emirates",23,18,78
+"Dublin","Dublin","Ireland",25,12,48
+"Dubuque","Iowa","United States",27,10,37
+"Duluth","Minnesota","United States",16,6,38
+"Dushanbe","Dushanbe","Tajikistan",36,18,50
+"Ecatepec","Mexico","Mexico",32,26,81
+"Edmonton","Alberta","Canada",32,12,38
+"El Paso","Texas","United States",32,19,59
+"Elista","Kalmykiya","Russia",27,17,63
+"Elmira","New York","United States",25,10,40
+"Erie","Pennsylvania","United States",17,8,47
+"Esfahan","Esfahan","Iran",34,24,71
+"Eugene","Oregon","United States",27,15,56
+"Eureka","California","United States",18,6,33
+"Evansville","Indiana","United States",17,8,47
+"Fairbanks","Alaska","United States",20,6,30
+"Faisalabad","Punjab","Pakistan",12,-11,-92
+"Fargo","North Dakota","United States",29,10,34
+"Faridabad","Haryana","India",17,-2,-12
+"Fayetteville","Arkansas","United States",25,9,36
+"Fes","Fes-Meknes","Morocco",30,15,50
+"Flagstaff","Arizona","United States",30,20,67
+"Flint","Michigan","United States",22,10,45
+"Florence","South Carolina","United States",12,7,58
+"Florianopolis","Santa Catarina","Brazil",17,12,71
+"Flying Fish Cove","","Christmas Island",33,32,97
+"Fort Myers","Florida","United States",27,21,78
+"Fort Smith","Arkansas","United States",24,11,46
+"Fort Wayne","Indiana","United States",27,12,44
+"Fort-de-France","","Martinique",68,65,96
+"Fortaleza","Ceara","Brazil",33,32,97
+"Fredericton","New Brunswick","Canada",25,14,56
+"Freetown","Western Area","Sierra Leone",78,74,95
+"Fresno","California","United States",52,25,48
+"Fukuoka","Fukuoka","Japan",27,14,52
+"Fuzhou","Fujian","China",35,16,46
+"Gaborone","Gaborone","Botswana",26,15,58
+"Gainesville","Florida","United States",23,17,74
+"Gangtok","Sikkim","India",36,22,61
+"Gatchina","Leningradskaya Oblast'","Russia",28,11,39
+"Gaza","","Gaza Strip",29,22,76
+"Gazipura","Dhaka","Bangladesh",31,-3,-10
+"George Town","","Cayman Islands",60,57,95
+"Georgetown","Demerara-Mahaica","Guyana",63,57,90
+"Ghandinagar","Gujarat","India",15,4,27
+"Ghaziabad","Uttar Pradesh","India",15,-1,-7
+"Gibraltar","","Gibraltar",26,15,58
+"Gitega","Gitega","Burundi",31,24,77
+"Giza","Al Jizah","Egypt",27,16,59
+"Glendive","Montana","United States",24,12,50
+"Goiania","Goias","Brazil",28,22,79
+"Gorno-Altaysk","Altay","Russia",29,13,45
+"Goyang","Gyeonggi","Korea, South",30,9,30
+"Grand Junction","Colorado","United States",36,25,69
+"Grand Rapids","Michigan","United States",26,11,42
+"Grand Turk","","Turks and Caicos Islands",64,59,92
+"Great Falls","Montana","United States",29,12,41
+"Green Bay","Wisconsin","United States",23,9,39
+"Greensboro","North Carolina","United States",21,16,76
+"Greenville","North Carolina","United States",21,12,57
+"Greenville","South Carolina","United States",15,11,73
+"Greenville","Mississippi","United States",22,7,32
+"Groznyy","Chechnya","Russia",32,28,88
+"Guadalajara","Jalisco","Mexico",27,15,56
+"Guangzhou","Guangdong","China",29,23,79
+"Guarulhos","São Paulo","Brazil",24,17,71
+"Guatemala City","Guatemala","Guatemala",42,37,88
+"Guayaquil","Guayas","Ecuador",49,41,84
+"Guiyang","Guizhou","China",35,19,54
+"Gujranwala","Punjab","Pakistan",22,-7,-32
+"Gustavia","","Saint Barthelemy",74,69,93
+"Guwahati","Assam","India",49,21,43
+"Gwalior","Madhya Pradesh","India",20,1,5
+"Gwangju","Gwangju","Korea, South",28,13,46
+"Hagerstown","Maryland","United States",29,11,38
+"Hagta","","Guam",56,55,98
+"Haikou","Hainan","China",44,27,61
+"Haiphong","Hai Phong","Vietnam",33,23,70
+"Haldwani","Uttarakhand","India",15,-1,-7
+"Halifax","Nova Scotia","Canada",25,14,56
+"Hamburg","Hamburg","Germany",22,11,50
+"Hamilton","Hamilton","Bermuda",37,32,86
+"Hangzhou","Zhejiang","China",27,10,37
+"Hanoi","Ha Noi","Vietnam",33,18,55
+"Harare","Harare","Zimbabwe",34,23,68
+"Harbin","Heilongjiang","China",16,10,63
+"Hargeisa","Woqooyi Galbeed","Somalia",42,31,74
+"Harrisburg","Pennsylvania","United States",22,11,50
+"Harrisonburg","Virginia","United States",26,9,35
+"Hartford","Connecticut","United States",22,10,45
+"Hattiesburg","Mississippi","United States",31,12,39
+"Havana","La Habana","Cuba",44,28,64
+"Hazard","Kentucky","United States",20,8,40
+"Hebron","","West Bank",29,21,72
+"Hefei","Anhui","China",26,8,31
+"Helena","Montana","United States",29,14,48
+"Helsinki","Uusimaa","Finland",26,12,46
+"Hiroshima","Hiroshima","Japan",30,15,50
+"Ho Chi Minh City","Ho Chi Minh","Vietnam",16,13,81
+"Hobart","Tasmania","Australia",16,8,50
+"Hohhot","Inner Mongolia","China",27,17,63
+"Hong Kong","","Hong Kong",36,28,78
+"Honiara","Honiara","Solomon Islands",59,57,97
+"Honolulu","Hawaii","United States",22,22,100
+"Houston","Texas","United States",26,8,31
+"Howrah","West Bengal","India",21,-4,-19
+"Huntington","West Virginia","United States",23,9,39
+"Huntsville","Alabama","United States",22,12,55
+"Hyderabad","Telangana","India",7,3,43
+"Hyderabad City","Sindh","Pakistan",17,5,29
+"Ibadan","Oyo","Nigeria",70,32,46
+"Idaho Falls","Idaho","United States",26,12,46
+"Ikare","Ondo","Nigeria",53,32,60
+"Imphal","Manipur","India",55,27,49
+"Incheon","Incheon","Korea, South",30,8,27
+"Indianapolis","Indiana","United States",18,8,44
+"Indore","Madhya Pradesh","India",14,7,50
+"Irkutsk","Irkutskaya Oblast'","Russia",17,9,53
+"Islamabad","Islamabad","Pakistan",25,3,12
+"Istanbul","Istanbul","Türkiye",30,24,80
+"Itanagar","Arunachal Pradesh","India",50,29,58
+"Ivanovo","Ivanovskaya Oblast'","Russia",27,12,44
+"Izhevsk","Udmurtiya","Russia",26,7,27
+"Izmir","Izmir","Türkiye",23,16,70
+"Jabalpur","Madhya Pradesh","India",8,3,38
+"Jackson","Idaho","United States",28,16,57
+"Jackson","Mississippi","United States",22,7,32
+"Jackson","Tennessee","United States",19,7,37
+"Jacksonville","Florida","United States",13,9,69
+"Jaipur","Rajasthan","India",16,7,44
+"Jakarta","Jakarta","Indonesia",24,19,79
+"Jamestown","Saint Helena","Saint Helena, Ascension, and Tristan da Cunha",45,42,93
+"Jammu","Jammu and Kashmir","India",25,-3,-12
+"Jamshedpur","Jharkhand","India",20,-2,-10
+"Jeddah","Makkah al Mukarramah","Saudi Arabia",33,29,88
+"Jefferson City","Missouri","United States",18,5,28
+"Jerusalem","Jerusalem","Israel",29,22,76
+"Jinan","Shandong","China",26,7,27
+"Joao Pessoa","Paraiba","Brazil",34,33,97
+"Jodhpur","Rajasthan","India",17,8,47
+"Johannesburg","Gauteng","South Africa",30,19,63
+"Jonesboro","Arkansas","United States",17,7,41
+"Joplin","Missouri","United States",25,9,36
+"Juarez","Chihuahua","Mexico",32,19,59
+"Juba","Central Equatoria","South Sudan",14,14,100
+"Juneau","Alaska","United States",21,12,57
+"Kabul","Kabul","Afghanistan",15,9,60
+"Kaliningrad","Kaliningradskaya Oblast'","Russia",26,13,50
+"Kaluga","Kaluzhskaya Oblast'","Russia",26,15,58
+"Kalyan","Maharashtra","India",27,2,7
+"Kampala","Kampala","Uganda",27,26,96
+"Kananga","Kasai Central","Congo (Kinshasa)",63,41,65
+"Kano","Kano","Nigeria",27,16,59
+"Kanpur","Uttar Pradesh","India",19,-5,-26
+"Kansas City","Missouri","United States",20,4,20
+"Kaohsiung","Kaohsiung","Taiwan",42,34,81
+"Karachi","Sindh","Pakistan",32,16,50
+"Karaj","Alborz","Iran",21,17,81
+"Katako-Kombe","Sankuru","Congo (Kinshasa)",100,46,46
+"Kathmandu","","Nepal",31,19,61
+"Kavaratti","Lakshadweep","India",34,28,82
+"Kawasaki","Kanagawa","Japan",40,19,48
+"Kayseri","Kayseri","Türkiye",21,14,67
+"Kazan","Tatarstan","Russia",27,11,41
+"Kemerovo","Kemerovskaya Oblast'","Russia",25,10,40
+"Khabarovsk","Khabarovskiy Kray","Russia",24,11,46
+"Khanty-Mansiysk","Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra","Russia",23,10,43
+"Kharkiv","Kharkivska Oblast","Ukraine",27,17,63
+"Khartoum","Khartoum","Sudan",28,26,93
+"Khowrhesht","Qazvin","Iran",27,18,67
+"Khulna","Khulna","Bangladesh",27,-3,-11
+"Kigali","Kigali","Rwanda",38,33,87
+"King Edward Point","","South Georgia And South Sandwich Islands",35,20,57
+"Kingston","Kingston","Jamaica",58,47,81
+"Kingston","","Norfolk Island",32,21,66
+"Kingstown","Saint George","Saint Vincent and the Grenadines",72,68,94
+"Kinshasa","Kinshasa","Congo (Kinshasa)",36,31,86
+"Kirov","Kirovskaya Oblast'","Russia",25,9,36
+"Kisangani","Tshopo","Congo (Kinshasa)",62,38,61
+"Kismaayo","Jubbada Hoose","Somalia",33,31,94
+"Knoxville","Tennessee","United States",23,13,57
+"Kobe","Hyogo","Japan",35,20,57
+"Kohima","Nagaland","India",48,27,56
+"Kolkata","West Bengal","India",21,-4,-19
+"Konya","Konya","Türkiye",25,18,72
+"Koror","Koror","Palau",75,74,99
+"Kostroma","Kostromskaya Oblast'","Russia",28,13,46
+"Kota","Rajasthan","India",12,6,50
+"Kotla Qasim Khan","Punjab","Pakistan",21,-6,-29
+"Kowloon","","Hong Kong",36,28,78
+"Kralendijk","Bonaire","Bonaire, Sint Eustatius, and Saba",65,62,95
+"Krasnodar","Krasnodarskiy Kray","Russia",29,20,69
+"Krasnoyarsk","Krasnoyarskiy Kray","Russia",19,8,42
+"Kuala Lumpur","Kuala Lumpur","Malaysia",35,32,91
+"Kumasi","Ashanti","Ghana",37,31,84
+"Kunming","Yunnan","China",35,25,71
+"Kurgan","Kurganskaya Oblast'","Russia",28,9,32
+"Kursk","Kurskaya Oblast'","Russia",27,17,63
+"Kuwait City","Al 'Asimah","Kuwait",35,30,86
+"Kyiv","Kyiv, Misto","Ukraine",30,16,53
+"Kyoto","Kyoto","Japan",33,21,64
+"Kyzyl","Tyva","Russia",21,9,43
+"La Crosse","Wisconsin","United States",26,8,31
+"La Paz","La Paz","Bolivia",35,33,94
+"Lafayette","Louisiana","United States",38,18,47
+"Lafayette","Indiana","United States",19,8,42
+"Lagos","Lagos","Nigeria",68,57,84
+"Lahore","Punjab","Pakistan",19,-7,-37
+"Lake Charles","Louisiana","United States",36,13,36
+"Lansing","Michigan","United States",22,9,41
+"Lanzhou","Gansu","China",30,21,70
+"Laredo","Texas","United States",22,16,73
+"Las Cruces","New Mexico","United States",31,19,61
+"Las Vegas","Nevada","United States",38,21,55
+"Leon de los Aldama","Guanajuato","Mexico",27,19,70
+"Lewiston","Idaho","United States",29,13,45
+"Lexington","Kentucky","United States",17,7,41
+"Lhasa","Tibet","China",21,15,71
+"Libreville","Estuaire","Gabon",39,37,95
+"Lilongwe","Lilongwe","Malawi",27,20,74
+"Lima","Ohio","United States",23,11,48
+"Lima","Lima","Peru",27,20,74
+"Lincoln","Nebraska","United States",27,8,30
+"Lipetsk","Lipetskaya Oblast'","Russia",27,15,56
+"Lisbon","Lisboa","Portugal",13,6,46
+"Little Rock","Arkansas","United States",18,7,39
+"Ljubljana","Ljubljana","Slovenia",29,22,76
+"Lobamba","Hhohho","Eswatini",20,8,40
+"Lome","Maritime","Togo",33,31,94
+"London","London, City of","United Kingdom",24,10,42
+"Longyearbyen","","Svalbard",39,34,87
+"Los Angeles","California","United States",20,8,40
+"Louisville","Kentucky","United States",16,7,44
+"Lower Prince's Quarter","","Sint Maarten",77,72,94
+"Luanda","Luanda","Angola",25,22,88
+"Lubbock","Texas","United States",37,23,62
+"Lubumbashi","Haut-Katanga","Congo (Kinshasa)",19,16,84
+"Lucknow","Uttar Pradesh","India",20,-4,-20
+"Ludhiana","Punjab","India",16,-4,-25
+"Lusaka","Lusaka","Zambia",31,19,61
+"Luxembourg","Luxembourg","Luxembourg",21,13,62
+"Lynchburg","Virginia","United States",27,13,48
+"Macapá","Amapá","Brazil",36,35,97
+"Macau","","Macau",31,26,84
+"Maceio","Alagoas","Brazil",44,40,91
+"Macon","Georgia","United States",17,11,65
+"Madison","Wisconsin","United States",25,9,36
+"Madrid","Madrid","Spain",31,25,81
+"Madurai","Tamil Nadu","India",9,7,78
+"Magadan","Magadanskaya Oblast'","Russia",34,21,62
+"Magas","Ingushetiya","Russia",39,30,77
+"Maiduguri","Borno","Nigeria",26,19,73
+"Maina","","Guam",56,55,98
+"Makassar","Sulawesi Selatan","Indonesia",28,26,93
+"Makhachkala","Dagestan","Russia",27,21,78
+"Malabo","Bioko Norte","Equatorial Guinea",55,50,91
+"Malang","Jawa Timur","Indonesia",34,23,68
+"Mamoudzou","","Mayotte",48,47,98
+"Managua","Managua","Nicaragua",27,21,78
+"Manama","Al 'Asimah","Bahrain",39,31,79
+"Manaus","Amazonas","Brazil",43,36,84
+"Manchester","New Hampshire","United States",24,9,38
+"Mandalay","Mandalay","Burma",22,12,55
+"Manila","Manila","Philippines",26,15,58
+"Mankato","Minnesota","United States",29,8,28
+"Mansfield","Ohio","United States",16,10,63
+"Manzini","Manzini","Eswatini",20,8,40
+"Maputo","Maputo","Mozambique",22,7,32
+"Maracaibo","Zulia","Venezuela",20,20,100
+"Marigot","","Saint Martin",77,72,94
+"Marquette","Michigan","United States",24,12,50
+"Maseru","Maseru","Lesotho",18,13,72
+"Mashhad","Khorasan-e Razavi","Iran",32,24,75
+"Mason City","Iowa","United States",30,7,23
+"Masqat","Masqat","Oman",18,9,50
+"Masvingo","Masvingo","Zimbabwe",27,17,63
+"Mata-Utu","Uvea","Wallis and Futuna",43,40,93
+"Matola","Maputo","Mozambique",22,7,32
+"Maykop","Adygeya","Russia",39,22,56
+"Mbabane","Hhohho","Eswatini",20,8,40
+"Mbandaka","Equateur","Congo (Kinshasa)",50,30,60
+"Mbuji-Mayi","Kasai Oriental","Congo (Kinshasa)",46,35,76
+"McAllen","Texas","United States",24,17,71
+"Mecca","Makkah al Mukarramah","Saudi Arabia",31,28,90
+"Medan","Sumatera Utara","Indonesia",25,22,88
+"Medellin","Antioquia","Colombia",37,35,95
+"Medford","Oregon","United States",22,12,55
+"Medina","Al Madinah al Munawwarah","Saudi Arabia",30,28,93
+"Meerut","Uttar Pradesh","India",12,-3,-25
+"Melbourne","Victoria","Australia",15,7,47
+"Memphis","Tennessee","United States",17,6,35
+"Meneng Terrace","Meneng","Nauru",36,36,100
+"Meridian","Mississippi","United States",22,7,32
+"Mersin","Mersin","Türkiye",41,37,90
+"Mexicali","Baja California","Mexico",42,21,50
+"Mexico City","Ciudad de Mexico","Mexico",42,36,86
+"Miami","Florida","United States",37,30,81
+"Milan","Lombardy","Italy",28,21,75
+"Milwaukee","Wisconsin","United States",13,5,38
+"Mindelo","São Vicente","Cabo Verde",38,34,89
+"Minneapolis","Minnesota","United States",27,9,33
+"Minot","North Dakota","United States",35,12,34
+"Minsk","Minsk","Belarus",26,14,54
+"Mirzapur","Uttar Pradesh","India",19,-2,-11
+"Missoula","Montana","United States",33,11,33
+"Mitchell","South Dakota","United States",28,4,14
+"Mobile","Alabama","United States",34,14,41
+"Mogadishu","Banaadir","Somalia",21,21,100
+"Moline","Illinois","United States",23,10,43
+"Mombasa","Mombasa","Kenya",38,27,71
+"Monaco","","Monaco",41,25,61
+"Monroe","Louisiana","United States",18,11,61
+"Monrovia","Montserrado","Liberia",89,76,85
+"Monterey","California","United States",17,6,35
+"Monterrey","Nuevo Leon","Mexico",24,19,79
+"Montevideo","Montevideo","Uruguay",24,14,58
+"Montgomery","Alabama","United States",26,15,58
+"Montreal","Quebec","Canada",23,7,30
+"Morelia","Michoacan","Mexico",30,23,77
+"Moroni","Grande Comore","Comoros",44,42,95
+"Moscow","Moskva","Russia",26,12,46
+"Mosul","Ninawa","Iraq",36,25,69
+"Multan","Punjab","Pakistan",18,-11,-61
+"Mumbai","Maharashtra","India",32,17,53
+"Munich","Bavaria","Germany",21,13,62
+"Murmansk","Murmanskaya Oblast'","Russia",36,13,36
+"Muscat","Masqat","Oman",18,9,50
+"Mutsamudu","Anjouan","Comoros",40,35,88
+"Mwanza","Mwanza","Tanzania",24,23,96
+"Myrtle Beach","South Carolina","United States",20,14,70
+"N'Djamena","N'Djamena","Chad",35,25,71
+"Nagoya","Aichi","Japan",28,16,57
+"Nagpur","Maharashtra","India",8,3,38
+"Nairobi","Nairobi City","Kenya",24,22,92
+"Najafgarh","Delhi","India",19,-3,-16
+"Nalchik","Kabardino-Balkariya","Russia",34,27,79
+"Nanchang","Jiangxi","China",32,11,34
+"Nanjing","Jiangsu","China",23,6,26
+"Nanning","Guangxi","China",24,18,75
+"Nar'yan-Mar","Nenetskiy Avtonomnyy Okrug","Russia",28,8,29
+"Nashik","Maharashtra","India",23,4,17
+"Nashville","Tennessee","United States",15,8,53
+"Nassau","","Bahamas, The",51,45,88
+"Natal","Rio Grande do Norte","Brazil",43,41,95
+"Nay Pyi Taw","Nay Pyi Taw","Burma",33,20,61
+"New Orleans","Louisiana","United States",33,15,45
+"New York","New York","United States",23,12,52
+"Newark","New Jersey","United States",22,14,64
+"Nezahualcoyotl","Mexico","Mexico",32,26,81
+"Ngerulmud","Melekeok","Palau",77,76,99
+"Niamey","Niamey","Niger",37,29,78
+"Nicosia","Lefkosia","Cyprus",20,12,60
+"Nizhniy Novgorod","Nizhegorodskaya Oblast'","Russia",26,11,42
+"Nneyi-Umuleri","Anambra","Nigeria",43,32,74
+"Norfolk","Virginia","United States",24,13,54
+"North Platte","Nebraska","United States",31,9,29
+"Nouakchott","Nouakchott Ouest","Mauritania",22,12,55
+"Noumea","Province Sud","New Caledonia",27,23,85
+"Novosibirsk","Novosibirskaya Oblast'","Russia",22,9,41
+"Nuku`alofa","Tongatapu","Tonga",27,25,93
+"Nuuk","Sermersooq","Greenland",16,15,94
+"Odesa","Odeska Oblast","Ukraine",30,24,80
+"Odessa","Texas","United States",43,26,60
+"Ogbomoso","Oyo","Nigeria",49,21,43
+"Oklahoma City","Oklahoma","United States",24,8,33
+"Omaha","Nebraska","United States",24,6,25
+"Omdurman","Khartoum","Sudan",28,25,89
+"Omsk","Omskaya Oblast'","Russia",26,8,31
+"Onitsha","Anambra","Nigeria",43,32,74
+"Oranjestad","","Aruba",65,62,95
+"Orel","Orlovskaya Oblast'","Russia",27,16,59
+"Orenburg","Orenburgskaya Oblast'","Russia",27,14,52
+"Orlando","Florida","United States",17,13,76
+"Osaka","Osaka","Japan",33,23,70
+"Oslo","Oslo","Norway",21,10,48
+"Ottawa","Ontario","Canada",22,8,36
+"Ottumwa","Iowa","United States",24,8,33
+"Ouagadougou","Centre","Burkina Faso",38,25,66
+"Paducah","Kentucky","United States",17,7,41
+"Pago Pago","","American Samoa",37,34,92
+"Palembang","Sumatera Selatan","Indonesia",25,17,68
+"Palikir","Pohnpei","Micronesia, Federated States of",61,60,98
+"Palm Springs","California","United States",39,21,54
+"Palmas","Tocantins","Brazil",29,21,72
+"Panaji","Goa","India",43,39,91
+"Panama City","Florida","United States",32,21,66
+"Panama City","Panama","Panama",34,32,94
+"Papeete","Iles du Vent","French Polynesia",22,22,100
+"Paramaribo","Paramaribo","Suriname",52,40,77
+"Paris","Ile-de-France","France",26,17,65
+"Parkersburg","West Virginia","United States",21,10,48
+"Patna","Bihar","India",11,-4,-36
+"Pensacola","Florida","United States",24,9,38
+"Penza","Penzenskaya Oblast'","Russia",25,9,36
+"Peoria","Illinois","United States",19,7,37
+"Perm","Permskiy Kray","Russia",29,7,24
+"Perth","Western Australia","Australia",21,5,24
+"Peshawar","Khyber Pakhtunkhwa","Pakistan",21,5,24
+"Petropavlovsk-Kamchatskiy","Kamchatskiy Kray","Russia",32,17,53
+"Petrozavodsk","Kareliya","Russia",30,12,40
+"Philadelphia","Pennsylvania","United States",22,11,50
+"Philipsburg","","Sint Maarten",77,72,94
+"Phnom Penh","Phnom Penh","Cambodia",15,13,87
+"Phoenix","Arizona","United States",29,17,59
+"Pikine","Dakar","Senegal",36,30,83
+"Pimpri-Chinchwad","Maharashtra","India",25,8,32
+"Pittsburgh","Pennsylvania","United States",22,9,41
+"Plymouth","Saint Anthony","Montserrat",71,68,96
+"Podgorica","Podgorica","Montenegro",41,31,76
+"Pointe-a-Pitre","","Guadeloupe",61,59,97
+"Port Blair","Andaman and Nicobar Islands","India",32,28,88
+"Port Harcourt","Rivers","Nigeria",58,49,84
+"Port Louis","Port Louis","Mauritius",16,15,94
+"Port Moresby","National Capital","Papua New Guinea",40,34,85
+"Port of Spain","Port of Spain","Trinidad and Tobago",49,41,84
+"Port-au-Prince","Ouest","Haiti",39,33,85
+"Port-Vila","Shefa","Vanuatu",40,39,98
+"Portland","Maine","United States",29,16,55
+"Portland","Oregon","United States",25,9,36
+"Porto","Porto","Portugal",18,7,39
+"Porto Alegre","Rio Grande do Sul","Brazil",23,9,39
+"Porto Velho","Rondonia","Brazil",47,45,96
+"Porto-Novo","Oueme","Benin",48,43,90
+"Prague","Praha","Czechia",22,14,64
+"Praia","Praia","Cabo Verde",44,36,82
+"Prayagraj","Uttar Pradesh","India",17,-2,-12
+"Prescott","Arizona","United States",29,19,66
+"Presque Isle","Maine","United States",25,12,48
+"Pretoria","Gauteng","South Africa",27,19,70
+"Pristina","Prishtine","Kosovo",24,18,75
+"Prizren","Prizren","Kosovo",30,25,83
+"Providence","Rhode Island","United States",22,7,32
+"Pskov","Pskovskaya Oblast'","Russia",28,12,43
+"Puducherry","Puducherry","India",9,4,44
+"Puebla","Puebla","Mexico",28,23,82
+"Pune","Maharashtra","India",25,8,32
+"Putrajaya","Putrajaya","Malaysia",33,30,91
+"Pyongyang","P'yongyang","Korea, North",26,13,50
+"Qom","Qom","Iran",23,20,87
+"Quebec City","Quebec","Canada",22,12,55
+"Quetta","Balochistan","Pakistan",19,12,63
+"Quezon City","Quezon","Philippines",29,17,59
+"Quincy","Illinois","United States",18,7,39
+"Quito","Pichincha","Ecuador",29,26,90
+"Rabat","Rabat-Sale-Kenitra","Morocco",19,7,37
+"Raipur","Chhattisgarh","India",6,2,33
+"Rajkot","Gujarat","India",9,2,22
+"Rajshahi","Rajshahi","Bangladesh",13,-11,-85
+"Raleigh","North Carolina","United States",20,13,65
+"Ranchi","Jharkhand","India",17,1,6
+"Rangapukur","Rangpur","Bangladesh",25,-2,-8
+"Rangoon","Yangon","Burma",20,14,70
+"Rapid City","South Dakota","United States",29,13,45
+"Rawalpindi","Punjab","Pakistan",26,1,4
+"Recife","Pernambuco","Brazil",33,26,79
+"Regina","Saskatchewan","Canada",33,9,27
+"Reno","Nevada","United States",33,16,48
+"Reykjavik","Reykjavik","Iceland",10,7,70
+"Richmond","Virginia","United States",22,12,55
+"Riga","Riga","Latvia",27,14,52
+"Rio Branco","Acre","Brazil",38,33,87
+"Rio de Janeiro","Rio de Janeiro","Brazil",20,15,75
+"Riyadh","Ar Riyad","Saudi Arabia",37,37,100
+"Road Town","","British Virgin Islands",76,72,95
+"Roanoke","Virginia","United States",29,13,45
+"Rochester","New York","United States",23,7,30
+"Rockford","Illinois","United States",31,12,39
+"Rome","Lazio","Italy",38,25,66
+"Rosario","Santa Fe","Argentina",36,9,25
+"Roseau","Saint George","Dominica",75,71,95
+"Rostov","Rostovskaya Oblast'","Russia",23,16,70
+"Ryazan","Ryazanskaya Oblast'","Russia",25,14,56
+"Sacramento","California","United States",36,12,33
+"Saginaw","Michigan","United States",24,10,42
+"Saint David's","Saint David","Grenada",70,66,94
+"Saint George","Saint George","Bermuda",37,31,84
+"Saint George's","Saint George","Grenada",70,66,94
+"Saint Helier","","Jersey",35,22,63
+"Saint John's","Saint John","Antigua and Barbuda",70,65,93
+"Saint Peter Port","","Guernsey",40,30,75
+"Saint Petersburg","Sankt-Peterburg","Russia",36,14,39
+"Saint-Denis","","Reunion",16,13,81
+"Saint-Pierre","","Saint Pierre and Miquelon",38,34,89
+"Saitama","Saitama","Japan",35,15,43
+"Salekhard","Yamalo-Nenetskiy Avtonomnyy Okrug","Russia",29,10,34
+"Salinas","California","United States",17,3,18
+"Salisbury","Maryland","United States",20,9,45
+"Salt Lake City","Utah","United States",35,26,74
+"Salvador","Bahia","Brazil",25,21,84
+"Samara","Samarskaya Oblast'","Russia",28,12,43
+"Samsun","Samsun","Türkiye",24,19,79
+"San Angelo","Texas","United States",42,24,57
+"San Antonio","Texas","United States",32,16,50
+"San Cristobal","Tachira","Venezuela",13,13,100
+"San Diego","California","United States",21,12,57
+"San Francisco","California","United States",18,3,17
+"San Jose","San Jose","Costa Rica",31,18,58
+"San Jose","California","United States",20,1,5
+"San Juan","Puerto Rico","United States",37,29,78
+"San Marino","San Marino Citta","San Marino",28,19,68
+"San Salvador","San Salvador","El Salvador",36,31,86
+"Sanaa","Amanat al 'Asimah","Yemen",30,29,97
+"Sangereng","Jawa Barat","Indonesia",24,19,79
+"Santa Cruz","Santa Cruz","Bolivia",55,44,80
+"Santa Cruz de la Sierra","Santa Cruz","Bolivia",55,44,80
+"Santa Maria","California","United States",16,4,25
+"Santiago","Cibao Norte","Dominican Republic",35,30,86
+"Santiago","Region Metropolitana","Chile",31,11,35
+"Santo Domingo","Ozama","Dominican Republic",56,49,88
+"Santos","São Paulo","Brazil",22,14,64
+"São Luís","Maranhão","Brazil",51,49,96
+"São Paulo","São Paulo","Brazil",25,19,76
+"São Tomé","Agua Grande","São Tomé and Príncipe",38,37,97
+"Sapporo","Hokkaido","Japan",32,14,44
+"Sarajevo","Bosnia and Herzegovina, Federation of","Bosnia and Herzegovina",34,22,65
+"Saransk","Mordoviya","Russia",25,10,40
+"Sarasota","Florida","United States",28,17,61
+"Saratov","Saratovskaya Oblast'","Russia",25,14,56
+"Savannah","Georgia","United States",16,11,69
+"Schaan","Schaan","Liechtenstein",24,15,63
+"Seattle","Washington","United States",22,9,41
+"Semarang","Jawa Tengah","Indonesia",36,18,50
+"Sendai","Miyagi","Japan",34,11,32
+"Seoul","Seoul","Korea, South",31,11,35
+"Serravalle","Serravalle","San Marino",28,19,68
+"Sevilla","Andalusia","Spain",14,11,79
+"Shagamu","Ogun","Nigeria",68,46,68
+"Shanghai","Shanghai","China",30,13,43
+"Sharjah","Ash Shariqah","United Arab Emirates",19,15,79
+"Shenyang","Liaoning","China",25,17,68
+"Sherman","Texas","United States",26,10,38
+"Shijiazhuang","Hebei","China",25,7,28
+"Shillong","Meghalaya","India",43,22,51
+"Shimla","Himachal Pradesh","India",19,0,0
+"Shiraz","Fars","Iran",40,30,75
+"Shreveport","Louisiana","United States",21,11,52
+"Shubra al Khaymah","Al Qalyubiyah","Egypt",29,16,55
+"Shymkent","Shymkent","Kazakhstan",32,17,53
+"Singapore","","Singapore",45,44,98
+"Sioux City","Iowa","United States",32,6,19
+"Sioux Falls","South Dakota","United States",33,4,12
+"Skopje","Skopje","North Macedonia",27,23,85
+"Smolensk","Smolenskaya Oblast'","Russia",29,15,52
+"Sofia","Sofia-Grad","Bulgaria",27,17,63
+"Sokode","Centrale","Togo",43,15,35
+"South Bend","Indiana","United States",25,12,48
+"Soweto","Gauteng","South Africa",30,18,60
+"Spokane","Washington","United States",28,9,32
+"Springfield","Massachusetts","United States",22,10,45
+"Springfield","Missouri","United States",26,9,35
+"Sri Jayewardenepura Kotte","Western","Sri Lanka",38,25,66
+"Srinagar","Jammu and Kashmir","India",43,15,35
+"St Joseph","Missouri","United States",24,7,29
+"St Louis","Missouri","United States",18,5,28
+"St. John's","Newfoundland and Labrador","Canada",31,17,55
+"Stanley","","Falkland Islands (Islas Malvinas)",27,14,52
+"State College","Pennsylvania","United States",28,11,39
+"Stavropol","Stavropol'skiy Kray","Russia",36,25,69
+"Stockholm","Stockholm","Sweden",24,14,58
+"Stockton","California","United States",30,11,37
+"Stuttgart","Baden-Wurttemberg","Germany",24,14,58
+"Sucre","Chuquisaca","Bolivia",43,35,81
+"Sumedang","Jawa Barat","Indonesia",23,17,74
+"Supaul","Bihar","India",12,-1,-8
+"Surabaya","Jawa Timur","Indonesia",38,27,71
+"Surat","Gujarat","India",27,9,33
+"Suva","Rewa","Fiji",42,38,90
+"Suwon","Gyeonggi","Korea, South",31,8,26
+"Sydney","New South Wales","Australia",17,10,59
+"Syktyvkar","Komi","Russia",28,11,39
+"Syracuse","New York","United States",24,7,29
+"Tabriz","Azarbayjan-e Sharqi","Iran",32,21,66
+"Taichung","Taichung","Taiwan",37,33,89
+"Tainan","Tainan","Taiwan",32,27,84
+"Taipei","Taipei","Taiwan",38,29,76
+"Taiyuan","Shanxi","China",28,9,32
+"Tallahassee","Florida","United States",19,12,63
+"Tallinn","Tallinn","Estonia",27,14,52
+"Tamale","Northern","Ghana",23,15,65
+"Tambov","Tambovskaya Oblast'","Russia",28,15,54
+"Tampa","Florida","United States",29,20,69
+"Tangerang","Jawa Barat","Indonesia",24,19,79
+"Tashkent","Toshkent","Uzbekistan",25,12,48
+"Tbilisi","Tbilisi","Georgia",26,23,88
+"Tegucigalpa","Francisco Morazan","Honduras",31,22,71
+"Tehran","Tehran","Iran",20,16,80
+"Tel Aviv-Yafo","Tel Aviv","Israel",34,28,82
+"Teresina","Piaui","Brazil",13,13,100
+"Terre Haute","Indiana","United States",21,11,52
+"Thane","Maharashtra","India",29,10,34
+"The Hague","Zuid-Holland","Netherlands",22,10,45
+"The Valley","","Anguilla",74,69,93
+"Thimphu","Thimphu","Bhutan",36,25,69
+"Thiruvananthapuram","Kerala","India",39,36,92
+"Thu Duc","Ho Chi Minh","Vietnam",16,13,81
+"Tianjin","Tianjin","China",26,11,42
+"Tifariti","Laayoune-Sakia El Hamra","Morocco",28,9,32
+"Tijuana","Baja California","Mexico",16,9,56
+"Tilburg","Noord-Brabant","Netherlands",21,8,38
+"Tirana","Tirane","Albania",40,27,68
+"Tokyo","Tokyo","Japan",35,15,43
+"Toledo","Ohio","United States",24,10,42
+"Tomsk","Tomskaya Oblast'","Russia",22,7,32
+"Tongjin","Gyeonggi","Korea, South",31,10,32
+"Topeka","Kansas","United States",24,6,25
+"Toronto","Ontario","Canada",15,7,47
+"Torshavn","Torshavn","Faroe Islands",18,15,83
+"Trachoni","","Akrotiri",23,15,65
+"Traverse City","Michigan","United States",25,14,56
+"Tripoli","Tarabulus","Libya",37,25,68
+"Tucson","Arizona","United States",30,18,60
+"Tula","Tul'skaya Oblast'","Russia",24,13,54
+"Tulsa","Oklahoma","United States",19,7,37
+"Tunis","Tunis","Tunisia",38,23,61
+"Tupelo","Mississippi","United States",19,4,21
+"Tuscaloosa","Alabama","United States",15,6,40
+"Tver","Tverskaya Oblast'","Russia",28,13,46
+"Twin Falls","Idaho","United States",30,15,50
+"Tyler","Texas","United States",32,12,38
+"Tyumen","Tyumenskaya Oblast'","Russia",28,7,25
+"Ubungo","Dar es Salaam","Tanzania",28,26,93
+"Ufa","Bashkortostan","Russia",27,12,44
+"Ulaanbaatar","Ulaanbaatar","Mongolia",16,13,81
+"Ulan-Ude","Buryatiya","Russia",13,7,54
+"Ulsan","Ulsan","Korea, South",22,11,50
+"Ulyanovsk","Ul'yanovskaya Oblast'","Russia",25,11,44
+"Urumqi","Xinjiang","China",34,16,47
+"Utica","New York","United States",24,7,29
+"Vadodara","Gujarat","India",18,2,11
+"Vaduz","Vaduz","Liechtenstein",24,15,63
+"Valencia","Carabobo","Venezuela",39,34,87
+"Valencia","Valencia","Spain",30,22,73
+"Valletta","Valletta","Malta",51,37,73
+"Vancouver","British Columbia","Canada",25,10,40
+"Varanasi","Uttar Pradesh","India",18,-2,-11
+"Vasai-Virar","Maharashtra","India",32,21,66
+"Vatican City","","Vatican City",38,25,66
+"Velikiy Novgorod","Novgorodskaya Oblast'","Russia",27,11,41
+"Victoria","Texas","United States",35,19,54
+"Victoria","Mont Buxton","Seychelles",45,45,100
+"Victoria","British Columbia","Canada",23,12,52
+"Vienna","Wien","Austria",28,14,50
+"Vientiane","Viangchan","Laos",34,17,50
+"Vijayawada","Andhra Pradesh","India",20,4,20
+"Vilnius","Vilniaus Miestas","Lithuania",27,12,44
+"Visakhapatnam","Andhra Pradesh","India",15,3,20
+"Vitoria","Espirito Santo","Brazil",14,13,93
+"Vladikavkaz","North Ossetia","Russia",32,23,72
+"Vladimir","Vladimirskaya Oblast'","Russia",27,12,44
+"Vladivostok","Primorskiy Kray","Russia",34,16,47
+"Volgograd","Volgogradskaya Oblast'","Russia",29,19,66
+"Vologda","Vologodskaya Oblast'","Russia",27,13,48
+"Voronezh","Voronezhskaya Oblast'","Russia",28,16,57
+"Waco","Texas","United States",37,17,46
+"Warsaw","Mazowieckie","Poland",28,14,50
+"Washington","District of Columbia","United States",18,9,50
+"Waterloo","Iowa","United States",30,8,27
+"Watertown","New York","United States",23,11,48
+"Wausau","Wisconsin","United States",27,10,37
+"Wellington","Wellington","New Zealand",25,17,68
+"Weno","Chuuk","Micronesia, Federated States of",63,63,100
+"West Palm Beach","Florida","United States",42,34,81
+"Wheeling","West Virginia","United States",20,8,40
+"Whitehorse","Yukon","Canada",23,10,43
+"Wichita","Kansas","United States",27,10,37
+"Wichita Falls","Texas","United States",37,15,41
+"Wilkes Barre","Pennsylvania","United States",22,10,45
+"Willemstad","","CuraÃ§ao",66,62,94
+"Wilmington","North Carolina","United States",20,11,55
+"Wilmington","Delaware","United States",20,10,50
+"Windhoek","Khomas","Namibia",38,34,89
+"Winnipeg","Manitoba","Canada",25,9,36
+"Wuhan","Hubei","China",27,6,22
+"Xi'an","Shaanxi","China",13,7,54
+"Xining","Qinghai","China",27,18,67
+"Yakima","Washington","United States",36,18,50
+"Yakutsk","Sakha (Yakutiya)","Russia",30,10,33
+"Yamoussoukro","Yamoussoukro","Côte d'Ivoire",45,38,84
+"Yaounde","Centre","Cameroon",56,46,82
+"Yaren","Yaren","Nauru",36,36,100
+"Yaroslavl","Yaroslavskaya Oblast'","Russia",27,11,41
+"Yekaterinburg","Sverdlovskaya Oblast'","Russia",30,11,37
+"Yellowknife","Northwest Territories","Canada",22,11,50
+"Yerevan","Yerevan","Armenia",33,26,79
+"Yinchuan","Ningxia","China",30,15,50
+"Yokohama","Kanagawa","Japan",40,19,48
+"Yopougon","Abidjan","Côte d'Ivoire",59,51,86
+"Yoshkar-Ola","Mariy-El","Russia",23,10,43
+"Youngstown","Ohio","United States",19,9,47
+"Yuma","Arizona","United States",31,18,58
+"Yuzhno-Sakhalinsk","Sakhalinskaya Oblast'","Russia",27,10,37
+"Zagreb","Zagreb, Grad","Croatia",29,21,72
+"Zamboanga City","Zamboanga","Philippines",42,41,98
+"Zanesville","Ohio","United States",19,9,47
+"Zapopan","Jalisco","Mexico",27,15,56
+"Zhengzhou","Henan","China",27,7,26
+"Zhongli","Taoyuan","Taiwan",42,33,79
+"Zurich","Zurich","Switzerland",25,16,64
